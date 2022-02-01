@@ -1,0 +1,19 @@
+{
+  "name": "dealers_choice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dealers_choice.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon dealers_choice.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  },
+  "dependencies": {
+    "express": "^4.17.2",
+    "html-template-tag": "^4.0.0"
+  }
+}
